@@ -3,17 +3,6 @@ body
     font-family: sans-serif;
 }
 
-.image-wrop
-{
-    text-align: center;
-}
-
-.u-max-full-width
-{
-    height: 300px;
-    border: 2px solid gray;
-}
-
 .title
 {
     background: yellow;
