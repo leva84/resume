@@ -23,7 +23,12 @@ body
     list-style: square;
 }
 
-.ocupations .link
+.training .link
 {
     color: red;
+}
+
+.training li
+{
+    list-style: square;
 }
