@@ -10,7 +10,7 @@ body
 
 .u-max-full-width
 {
-    height: 300px;
+    height: 250px;
     border: 2px solid gray;
 }
 
@@ -42,4 +42,9 @@ body
 .training li
 {
     list-style: square;
+}
+
+.row h5
+{
+    color: gray;
 }
