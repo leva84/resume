@@ -1,0 +1,29 @@
+body
+{
+    font-family: sans-serif;
+}
+
+.title
+{
+    background: yellow;
+}
+
+.subtitle
+{
+    font-size: 2.5em;
+}
+
+.div-title
+{
+    color: gray;
+}
+
+.skills li
+{
+    list-style: square;
+}
+
+.ocupations .link
+{
+    color: red;
+}
