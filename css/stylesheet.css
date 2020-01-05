@@ -1,51 +1,41 @@
-body
-{
+body {
     font-family: sans-serif;
 }
 
-.image-wrop
-{
+.image-wrop {
     text-align: center;
 }
 
-.u-max-full-width
-{
+.u-max-full-width {
     height: 250px;
     border: 2px solid gray;
 }
 
-.subtitle
-{
+.subtitle {
     font-size: 2.5em;
 }
 
-.div-title
-{
+.div-title {
     color: gray;
 }
 
-.skills li
-{
+.skills li {
     list-style: square;
 }
 
-.link
-{
+.link {
     color: red;
     target: "_blank";
 }
 
-.training li
-{
+.training li {
     list-style: square;
 }
 
-.row h5
-{
+.row h5 {
     color: gray;
 }
 
-.contacts li
-{
+.contacts li {
     list-style: square;
 }
